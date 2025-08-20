@@ -1,0 +1,13 @@
+ticker,name,exchange,region,type
+^NYA,NYSE Composite,NYSE (USA),Americas,Stock Index
+^IXIC,Nasdaq Composite,NASDAQ (USA),Americas,Stock Index
+^FTSE,FTSE 100,London Stock Exchange (UK),Europe,Stock Index
+^NSEI,Nifty 50,National Stock Exchange (India),Asia,Stock Index
+^BSESN,BSE Sensex,Bombay Stock Exchange (India),Asia,Stock Index
+^N225,Nikkei 225,Tokyo Stock Exchange (Japan),Asia,Stock Index
+000001.SS,SSE Composite Index,Shanghai Stock Exchange (China),Asia,Stock Index
+^N100,Euronext 100,Euronext (Europe),Europe,Stock Index
+^DJI,Dow Jones Industrial Average,NYSE (USA),Americas,Stock Index
+^GSPC,S&P 500,NYSE (USA),Americas,Stock Index
+GC=F,Gold Futures,COMEX (USA),Global,Commodity
+CL=F,Crude Oil Futures,NYMEX (USA),Global,Commodity
